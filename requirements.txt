@@ -1,9 +1,8 @@
 pytrends
 pandas
-matplotlib.pyplot
+matplotlib
 datetime
-time
 seaborn
-matplotlib.dates
-ipwidgetes
+ipywidgets
+pytz
 voila
