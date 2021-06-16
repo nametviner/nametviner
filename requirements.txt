@@ -1,0 +1,9 @@
+pytrends
+pandas
+matplotlib.pyplot
+datetime
+time
+seaborn
+matplotlib.dates
+ipwidgetes
+voila
