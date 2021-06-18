@@ -1,8 +1,0 @@
-pytrends
-pandas
-matplotlib
-datetime
-seaborn
-ipywidgets
-pytz
-voila
